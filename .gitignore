@@ -1,3 +1,5 @@
 vrutti_ssh
 vrutti_ssh.pub
 git
+node_modules
+.env
